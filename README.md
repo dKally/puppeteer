@@ -1,3 +1,3 @@
 # puppeteer
 
-Pequeno teste feito para estudo
+Pequeno teste feito para estudo de Web Scraping
